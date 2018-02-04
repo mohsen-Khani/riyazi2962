@@ -116,3 +116,6 @@ body{font-family: "XB Niloofar"}
 ul{
     padding-left: 40px;
 }
+#notice{
+    color: red;
+}
