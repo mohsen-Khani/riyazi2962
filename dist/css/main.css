@@ -119,3 +119,7 @@ ul{
 #notice{
     color: red;
 }
+#important_notice{
+    color: tomato;
+    font-size: large;
+}
