@@ -119,6 +119,7 @@ ul{
 #notice{
     color: red;
 }
-.freebirdFormviewerViewFormBanner{
-    height:120px !important;
+#important_notice{
+    color: tomato;
+    font-size: large;
 }
